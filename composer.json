@@ -14,5 +14,7 @@
             "email": "internet.buro@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "webmozart/assert": "^1.10"
+    }
 }
